@@ -1,5 +1,4 @@
-# portfolio-web# Hi there, 
-I'm Hendra Setiawan Rambe 👋
+# Hi there, I'm Hendra Setiawan 👋
 
 Welcome to my `portfolio-web` repository! I am an enthusiastic entry-level developer with a strong background in administration and customer service, now transitioning into the tech industry. 
 
